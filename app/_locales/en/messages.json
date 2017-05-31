@@ -1,0 +1,29 @@
+{
+    "appName": {
+        "message": "Share to ChatWork"
+    },
+    "appDescription": {
+        "message": "Share current page to ChatWork"
+    },
+    "appButtonTitle": {
+        "message": "Share this page to ChatWork"
+    },
+    "optionTitle": {
+        "message": "Share to ChatWork options"
+    },
+    "optionShareToTitle": {
+        "message": "Share to:"
+    },
+    "optionShareToChatWork": {
+        "message": "ChatWork"
+    },
+    "optionShareToKDDIChatWork": {
+        "message": "KDDI ChatWork"
+    },
+    "optionSaveButton": {
+        "message": "Save"
+    },
+    "optionSaved": {
+        "message": "Saved."
+    }
+}

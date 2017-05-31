@@ -1,0 +1,29 @@
+{
+    "appName": {
+        "message": "チャットワークでシェア"
+    },
+    "appDescription": {
+        "message": "開いているページをチャットワークで共有します。"
+    },
+    "appButtonTitle": {
+        "message": "このページをチャットワークでシェア"
+    },
+    "optionTitle": {
+        "message": "チャットワークでシェア オプション"
+    },
+    "optionShareToTitle": {
+        "message": "共有先："
+    },
+    "optionShareToChatWork": {
+        "message": "チャットワーク"
+    },
+    "optionShareToKDDIChatWork": {
+        "message": "KDDI ChatWork"
+    },
+    "optionSaveButton": {
+        "message": "保存"
+    },
+    "optionSaved": {
+        "message": "保存されました。"
+    }
+}

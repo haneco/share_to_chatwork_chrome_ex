@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title data-i18n="optionTitle"></title>
+        <style>
+            #wrapper {
+                width: 500px;
+                margin:0 auto;
+            }
+            .checkboxList {
+                list-style:none;
+                margin:1em 0;
+                padding:0;
+            }
+            #status {
+                margin-left: 1em;
+            }
+            h1 img{
+                vertical-align:middle;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <h1><img src="images/icon-32.png" srcset="images/icon-64.png 2x" width="32" height="32"> <span data-i18n="optionTitle"></span></h1>
+            <h2 data-i18n="optionShareToTitle"></h2>
+            <ul class="checkboxList">
+                <li><label><input type="radio" name="shareTo" value="chatwork"><span data-i18n="optionShareToChatWork"></span></label></li>
+                <li><label><input type="radio" name="shareTo" value="kddi"><span data-i18n="optionShareToKDDIChatWork"></span></label></li>
+            </ul>
+
+            <button id="save" data-i18n="optionSaveButton">保存</button><span id="status"></span>
+        </div>
+        <script src="scripts/options.js"></script>
+    </body>
+</html>
