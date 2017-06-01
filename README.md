@@ -10,6 +10,10 @@
 
 オプションで設定することで、KDDI ChatWorkへのシェアページを直接開くことも可能です。
 
+## インストール
+[Chrome ウェブストア](https://chrome.google.com/webstore/detail/share-to-chatwork/nfefoppdjaidappikcjaeapgdkdjlngp)からインストールしてください。
+
+
 ## ライセンス
 
 MIT license
